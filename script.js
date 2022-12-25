@@ -20,7 +20,7 @@ const addNewNote = (text = "") => {
 
   const htmlData = `
     <div class="operation">
-        <button class="edit"> <i class="fas fa-edit">Edit</i> </button>
+        <button class="edit"> <i class="fas fa-edit">Edit </i> </button>
         <button class="delete"> <i class="fas fa-trash-alt">Delete</i> </button>
     </div>
 
